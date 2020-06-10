@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Insert title here--></title>
 </head>
 <body>
 <%out.println("Welcome to Azure-->! Learing WebApp--bugfix2020"); %>
